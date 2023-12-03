@@ -1,0 +1,31 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: blue;
+  text-align: center;
+  padding: 1em;
+}
+
+section {
+  margin: 20px;
+}
+
+h2 {
+  color: #333;
+}
+
+.project {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+a {
+  color: #007BFF;
+  text-decoration: black;
+}
